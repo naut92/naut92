@@ -1,16 +1,24 @@
-## Hi there 👋
+## 👋 Hi, I'm Vlad Naut
 
-<!--
-**naut92/naut92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Senior Java Developer with 9+ years of experience in building scalable, secure backend systems.  
+🌍 Based in Montenegro | 🇩🇰 EU Citizen | 💼 Remote-only contracts (B2B)  
+🚀 Focus: Java 17, Spring Boot, microservices, Kafka, cloud (AWS, Azure)
 
-Here are some ideas to get you started:
+## 🔧 Key Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java 8–17, Spring Boot, Hibernate
+- PostgreSQL, Kafka, Redis
+- Netty, WebSocket, async microservices
+- AWS, Azure, Docker, CI/CD
+
+## 🧠 Interests
+
+- Post-quantum cryptography  
+- Fintech backend architecture  
+- Distributed systems & event-driven design  
+
+## 📬 Get in touch
+
+- 📧 naut92@gmail.com  
+- 💼 [[LinkedIn](https://www.linkedin.com/in/vlad-naut-193bb3103/)](#)  
+- 💻 [My Projects](https://github.com/naut92)
