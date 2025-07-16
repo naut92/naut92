@@ -20,5 +20,5 @@
 ## 📬 Get in touch
 
 - 📧 naut92@gmail.com  
-- 💼 [LinkedIn(https://www.linkedin.com/in/vlad-naut-193bb3103/)]  
+- 💼 [LinkedIn](https://www.linkedin.com/in/vlad-naut-193bb3103/)  
 - 💻 [My Projects](https://github.com/naut92)
